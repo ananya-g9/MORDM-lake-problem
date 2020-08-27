@@ -3,6 +3,6 @@ Used evolutionary algorithms to perform Multi-objective Robust Decision Making (
 
 All coding was done in Python using Jupyter notebooks. 
 
-[Final Report]()
+[Final Report](https://github.com/ananya-g9/MORDM-lake-problem/blob/master/Introduction_to_Rhodium_and_MORDM.pdf)
 
 [Final Presentation]()
