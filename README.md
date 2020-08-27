@@ -5,4 +5,4 @@ All coding was done in Python using Jupyter notebooks.
 
 [Final Report](https://github.com/ananya-g9/MORDM-lake-problem/blob/master/Introduction_to_Rhodium_and_MORDM.pdf)
 
-[Final Presentation]()
+[Final Presentation](https://github.com/ananya-g9/MORDM-lake-problem/blob/master/Rhodium%20Presentation.pdf)
